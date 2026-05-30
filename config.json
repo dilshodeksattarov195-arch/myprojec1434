@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperuetch",
+        "uuid": 9537534,
+        "checksum": "p5ksv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
